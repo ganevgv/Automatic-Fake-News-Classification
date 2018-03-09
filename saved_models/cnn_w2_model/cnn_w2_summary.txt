@@ -1,0 +1,38 @@
+--- Epoch 0 --- Average train loss: 1.76281, Train accuracy: 0.28055, Valid accuracy: 0.25779, Test accuracy: 0.24240
+-------Model saved: new best valid accuracy
+--- Epoch 1 --- Average train loss: 1.71446, Train accuracy: 0.32019, Valid accuracy: 0.26168, Test accuracy: 0.24942
+-------Model saved: new best valid accuracy
+--- Epoch 2 --- Average train loss: 1.68297, Train accuracy: 0.35417, Valid accuracy: 0.26480, Test accuracy: 0.26345
+-------Model saved: new best valid accuracy
+--- Epoch 3 --- Average train loss: 1.65774, Train accuracy: 0.38271, Valid accuracy: 0.26402, Test accuracy: 0.26267
+--- Epoch 4 --- Average train loss: 1.63072, Train accuracy: 0.40900, Valid accuracy: 0.26636, Test accuracy: 0.25799
+-------Model saved: new best valid accuracy
+--- Epoch 5 --- Average train loss: 1.60682, Train accuracy: 0.43188, Valid accuracy: 0.26791, Test accuracy: 0.26656
+-------Model saved: new best valid accuracy
+--- Epoch 6 --- Average train loss: 1.58421, Train accuracy: 0.44600, Valid accuracy: 0.27414, Test accuracy: 0.26189
+-------Model saved: new best valid accuracy
+--- Epoch 7 --- Average train loss: 1.56337, Train accuracy: 0.46567, Valid accuracy: 0.28271, Test accuracy: 0.26189
+-------Model saved: new best valid accuracy
+--- Epoch 8 --- Average train loss: 1.54208, Train accuracy: 0.48875, Valid accuracy: 0.27726, Test accuracy: 0.26734
+--- Epoch 9 --- Average train loss: 1.52191, Train accuracy: 0.50657, Valid accuracy: 0.28037, Test accuracy: 0.27124
+--- Epoch 10 --- Average train loss: 1.50112, Train accuracy: 0.52449, Valid accuracy: 0.28115, Test accuracy: 0.26812
+--- Epoch 11 --- Average train loss: 1.48079, Train accuracy: 0.54085, Valid accuracy: 0.28427, Test accuracy: 0.26968
+-------Model saved: new best valid accuracy
+--- Epoch 12 --- Average train loss: 1.46261, Train accuracy: 0.55546, Valid accuracy: 0.27960, Test accuracy: 0.26812
+--- Epoch 13 --- Average train loss: 1.44300, Train accuracy: 0.56666, Valid accuracy: 0.27882, Test accuracy: 0.26890
+--- Epoch 14 --- Average train loss: 1.42266, Train accuracy: 0.57620, Valid accuracy: 0.27181, Test accuracy: 0.26345
+--- Epoch 15 --- Average train loss: 1.40133, Train accuracy: 0.59198, Valid accuracy: 0.27259, Test accuracy: 0.27046
+--- Epoch 16 --- Average train loss: 1.38570, Train accuracy: 0.60201, Valid accuracy: 0.27259, Test accuracy: 0.27747
+--- Epoch 17 --- Average train loss: 1.37033, Train accuracy: 0.61447, Valid accuracy: 0.27103, Test accuracy: 0.27592
+--- Epoch 18 --- Average train loss: 1.34809, Train accuracy: 0.62616, Valid accuracy: 0.27181, Test accuracy: 0.27825
+--- Epoch 19 --- Average train loss: 1.32995, Train accuracy: 0.63998, Valid accuracy: 0.27181, Test accuracy: 0.27124
+--- Epoch 20 --- Average train loss: 1.31629, Train accuracy: 0.65070, Valid accuracy: 0.27336, Test accuracy: 0.27903
+--- Epoch 21 --- Average train loss: 1.29166, Train accuracy: 0.66121, Valid accuracy: 0.27025, Test accuracy: 0.27747
+--- Epoch 22 --- Average train loss: 1.27989, Train accuracy: 0.67085, Valid accuracy: 0.27103, Test accuracy: 0.27670
+--- Epoch 23 --- Average train loss: 1.27165, Train accuracy: 0.67718, Valid accuracy: 0.26713, Test accuracy: 0.27825
+--- Epoch 24 --- Average train loss: 1.24666, Train accuracy: 0.68926, Valid accuracy: 0.26558, Test accuracy: 0.27436
+--- Epoch 25 --- Average train loss: 1.23148, Train accuracy: 0.69705, Valid accuracy: 0.25857, Test accuracy: 0.27514
+--- Epoch 26 --- Average train loss: 1.22179, Train accuracy: 0.70572, Valid accuracy: 0.26168, Test accuracy: 0.27670
+--- Epoch 27 --- Average train loss: 1.19755, Train accuracy: 0.71321, Valid accuracy: 0.26246, Test accuracy: 0.27436
+--- Epoch 28 --- Average train loss: 1.19135, Train accuracy: 0.71954, Valid accuracy: 0.26168, Test accuracy: 0.27514
+--- Epoch 29 --- Average train loss: 1.16640, Train accuracy: 0.73055, Valid accuracy: 0.26090, Test accuracy: 0.27592

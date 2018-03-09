@@ -1,0 +1,41 @@
+--- Epoch 0 --- Average train loss: 1.78309, Train accuracy: 0.22027, Valid accuracy: 0.19938, Test accuracy: 0.21434
+-------Model saved: new best valid accuracy
+--- Epoch 1 --- Average train loss: 1.74546, Train accuracy: 0.24920, Valid accuracy: 0.21651, Test accuracy: 0.23227
+-------Model saved: new best valid accuracy
+--- Epoch 2 --- Average train loss: 1.72701, Train accuracy: 0.26643, Valid accuracy: 0.23442, Test accuracy: 0.23850
+-------Model saved: new best valid accuracy
+--- Epoch 3 --- Average train loss: 1.71215, Train accuracy: 0.27491, Valid accuracy: 0.23988, Test accuracy: 0.24474
+-------Model saved: new best valid accuracy
+--- Epoch 4 --- Average train loss: 1.69936, Train accuracy: 0.28162, Valid accuracy: 0.25000, Test accuracy: 0.25565
+-------Model saved: new best valid accuracy
+--- Epoch 5 --- Average train loss: 1.68767, Train accuracy: 0.29185, Valid accuracy: 0.25623, Test accuracy: 0.26111
+-------Model saved: new best valid accuracy
+--- Epoch 6 --- Average train loss: 1.67671, Train accuracy: 0.29828, Valid accuracy: 0.26012, Test accuracy: 0.27436
+-------Model saved: new best valid accuracy
+--- Epoch 7 --- Average train loss: 1.66628, Train accuracy: 0.30665, Valid accuracy: 0.25857, Test accuracy: 0.28059
+--- Epoch 8 --- Average train loss: 1.65615, Train accuracy: 0.31308, Valid accuracy: 0.25701, Test accuracy: 0.27592
+--- Epoch 9 --- Average train loss: 1.64618, Train accuracy: 0.32360, Valid accuracy: 0.25779, Test accuracy: 0.27592
+--- Epoch 10 --- Average train loss: 1.63625, Train accuracy: 0.32895, Valid accuracy: 0.26791, Test accuracy: 0.27825
+-------Model saved: new best valid accuracy
+--- Epoch 11 --- Average train loss: 1.62627, Train accuracy: 0.33596, Valid accuracy: 0.27181, Test accuracy: 0.27981
+-------Model saved: new best valid accuracy
+--- Epoch 12 --- Average train loss: 1.61615, Train accuracy: 0.34268, Valid accuracy: 0.27648, Test accuracy: 0.27670
+-------Model saved: new best valid accuracy
+--- Epoch 13 --- Average train loss: 1.60580, Train accuracy: 0.35008, Valid accuracy: 0.27336, Test accuracy: 0.27280
+--- Epoch 14 --- Average train loss: 1.59514, Train accuracy: 0.35875, Valid accuracy: 0.27726, Test accuracy: 0.27514
+-------Model saved: new best valid accuracy
+--- Epoch 15 --- Average train loss: 1.58409, Train accuracy: 0.36732, Valid accuracy: 0.27259, Test accuracy: 0.27592
+--- Epoch 16 --- Average train loss: 1.57258, Train accuracy: 0.37511, Valid accuracy: 0.26636, Test accuracy: 0.27981
+--- Epoch 17 --- Average train loss: 1.56058, Train accuracy: 0.38436, Valid accuracy: 0.27259, Test accuracy: 0.28215
+--- Epoch 18 --- Average train loss: 1.54801, Train accuracy: 0.39283, Valid accuracy: 0.27103, Test accuracy: 0.28059
+--- Epoch 19 --- Average train loss: 1.53485, Train accuracy: 0.40316, Valid accuracy: 0.26713, Test accuracy: 0.27747
+--- Epoch 20 --- Average train loss: 1.52109, Train accuracy: 0.41231, Valid accuracy: 0.26480, Test accuracy: 0.27592
+--- Epoch 21 --- Average train loss: 1.50671, Train accuracy: 0.42107, Valid accuracy: 0.25857, Test accuracy: 0.26968
+--- Epoch 22 --- Average train loss: 1.49178, Train accuracy: 0.42925, Valid accuracy: 0.25467, Test accuracy: 0.26734
+--- Epoch 23 --- Average train loss: 1.47597, Train accuracy: 0.43695, Valid accuracy: 0.25312, Test accuracy: 0.26578
+--- Epoch 24 --- Average train loss: 1.45977, Train accuracy: 0.44532, Valid accuracy: 0.25312, Test accuracy: 0.26189
+--- Epoch 25 --- Average train loss: 1.44296, Train accuracy: 0.45253, Valid accuracy: 0.25156, Test accuracy: 0.25643
+--- Epoch 26 --- Average train loss: 1.42565, Train accuracy: 0.46022, Valid accuracy: 0.24844, Test accuracy: 0.25409
+--- Epoch 27 --- Average train loss: 1.40787, Train accuracy: 0.46918, Valid accuracy: 0.24455, Test accuracy: 0.25253
+--- Epoch 28 --- Average train loss: 1.38949, Train accuracy: 0.47687, Valid accuracy: 0.24688, Test accuracy: 0.25487
+--- Epoch 29 --- Average train loss: 1.37053, Train accuracy: 0.48359, Valid accuracy: 0.24377, Test accuracy: 0.25097

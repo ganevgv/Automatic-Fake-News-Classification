@@ -1,0 +1,2 @@
+model_checkpoint_path: "cnn_meta_model.ckpt"
+all_model_checkpoint_paths: "cnn_meta_model.ckpt"
